@@ -5,4 +5,9 @@
 Lab Objective
 In this lab, we will discuss Spring forms and data binding to a controller. Also, we will have a look at some of the main annotations in Spring Boot (e.g., @RestController, @ModelAttribute, @PostMapping, @GetMapping).
 
+# Testing the Application
+Type the URL below in your browser:
+http://localhost:8080/employeeform
+
+
 
