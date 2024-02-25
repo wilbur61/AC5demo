@@ -9,5 +9,5 @@ In this lab, we will discuss Spring forms and data binding to a controller. Also
 Type the URL below in your browser:
 http://localhost:8080/employeeform
 
-
+# Note USE master2  has newest version of Spring..  3.2.2  
 
